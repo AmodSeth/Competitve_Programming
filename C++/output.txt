@@ -1,5 +1,7 @@
-6 7
-6 7
-6 7
-6 7
-6 7
+06arr[i]2
+arr[j]10
+arr[i]3
+arr[j]7
+arr[i]4
+arr[j]5
+no duplicates

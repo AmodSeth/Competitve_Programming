@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.txt": "bat",
+        "*.tf": "bat",
+        "ostream": "cpp"
+    }
+}

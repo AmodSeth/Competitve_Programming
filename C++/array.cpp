@@ -5,11 +5,9 @@
 using namespace std;
 void solve()
 {
-    string str;
-    getline(cin, str);
+   int arr[5];
 
-    cout<<"this is str output"<<str<<endl;
-
+   
 
 
 

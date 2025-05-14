@@ -1,15 +1,22 @@
+/*
+1. for outer loop count the number of lines/rows
+2. for the inner loop focus on the columns and connect it to the rows
+
+
+*/
+
+
 #include<bits/stdc++.h>
 #define int long long int
 #define pb push_back
 #define fin(i,n) for(int i=0;i<n;i++)
 using namespace std;
+
+
+
 void solve()
 {
-    string str;
-    getline(cin, str);
-
-    cout<<"this is str output"<<str<<endl;
-
+    
 
 
 

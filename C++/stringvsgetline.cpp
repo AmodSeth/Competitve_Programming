@@ -8,7 +8,7 @@ void solve()
     string str;
     getline(cin, str);
 
-    cout<<"this is str output"<<str<<endl;
+    cout<<"this is the output for c++"<<endl;
 
 
 
